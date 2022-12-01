@@ -1,0 +1,20 @@
+[
+    {
+        "name": "calca branca",
+        "number": 21,
+        "price": 25,
+        "stock": 1
+    },
+    {
+        "name": "calca preta",
+        "number": 32,
+        "price": 50,
+        "stock": 2
+    },
+    {
+        "name": "calca cinza",
+        "number": 12,
+        "price": 100,
+        "stock": 3
+    }
+]

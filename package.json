@@ -1,0 +1,17 @@
+{
+  "name": "autoreply-portfolio",
+  "version": "1.0.0",
+  "description": "system for sending message to user and answer user question",
+  "main": "index.js",
+  "author": "purpledev or Kauan Araujo",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon index.ts"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "typescript": "^4.9.3",
+    "venom-bot": "^4.3.6"
+  }
+}
